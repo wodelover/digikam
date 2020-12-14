@@ -39,6 +39,7 @@ extern "C"
 #include <QByteArray>
 #include <QFile>
 #include <qplatformdefs.h>
+#include <QDebug>
 
 // Windows includes
 
